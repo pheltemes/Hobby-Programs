@@ -1,1 +1,1 @@
-# Programs for the sake of it.
+# Programs for personal challenge or to solve an individual problem.
